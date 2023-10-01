@@ -1,13 +1,17 @@
-# python-basics
-Welcome to the "Python Basics" repository!
+[<img src="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg" width="100%">](https://hacktoberfest.com/)
+
+<br><br>
+
+# Python Basics
+Welcome to the `Python Basics` repository!
 
 ## Repository Contents
 
-- **Data Structures:** Explore Python's built-in data structures like lists, dictionaries, and sets.
-- **File Handling:** Dive into reading from and writing to files using Python.
-- **Basic Projects:** Get hands-on experience by working on small Python projects.
-- **Exercises:** Test your knowledge with a variety of Python coding exercises.
-- **Resources:** Find links to helpful Python learning resources and documentation.
+- `Data Structures` Explore Python's built-in data structures like lists, dictionaries, and sets.
+- `File Handling` Dive into reading from and writing to files using Python.
+- `Basic Projects` Get hands-on experience by working on small Python projects.
+- `Exercises` Test your knowledge with a variety of Python coding exercises.
+- `Resources` Find links to helpful Python learning resources and documentation.
 
 ## Contributing
 
